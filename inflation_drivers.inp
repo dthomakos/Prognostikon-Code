@@ -1,0 +1,128 @@
+#
+# Gretl code replicating results on this post:
+#
+# https://prognostikon.wordpress.com/2023/07/05/lead-me-not-into-inflation/
+#
+# at my blog Prognostikon
+#
+# (c) Dimitrios D. Thomakos, dimitrios.thomakos@gmail.com, https://github.com/dthomakos
+#
+
+# Open the data file
+open \
+  "P:/pCloud Sync/Papers/Own ideas/Blog/US other/Inflation plot/fredgraph.xls" \
+  --sheet=2
+
+# Full sample
+smpl full
+
+# Generate three plots
+gnuplot Inflation Freight --time-series --with-lines --output=display \
+{ set title "US Inflation and US PPI Inflation of Deep Sea Freight"; \
+  set linetype 1 lc rgb "black"; set linetype 2 lc rgb "red"; } 
+  
+gnuplot Inflation Energy --time-series --with-lines --output=display \
+{ set title "US Inflation and Global Price of Energy"; \
+  set linetype 1 lc rgb "black"; set linetype 2 lc rgb "red"; } 
+  
+gnuplot Inflation Energy Freight --time-series --with-lines --output=display \
+{ set title "US Inflation, Global Price of Energy and Deep Sea Freight Inflation"; \
+  set linetype 1 lc rgb "black"; set linetype 2 lc rgb "red"; set linetype 3 lc rgb "blue"; } 
+  
+# Compute and plot rolling cross-correlations, experiment with the lags;
+# "optimal" looks at 2 months
+scalar roll = 15
+scalar lag = 2
+scalar tobs = $nobs
+series Inflation_Freight = NA
+series Inflation_Energy = NA
+series Inflation_FFRate = NA
+
+# The loop to compute the cross-correlations from the beginning of the sample; 
+# no need to invoke dates here...
+loop i=roll..tobs
+    smpl i-roll+1 i
+    Inflation_Freight[i] = corr(Inflation, Freight(-lag))*100
+    Inflation_Energy[i] = corr(Inflation, Energy(-lag))*100
+    Inflation_FFRate[i] = corr(Inflation, FFRate(-lag))*100
+endloop
+
+# Reset the sample
+smpl roll ;
+
+# Generate three additional plots
+gnuplot Inflation Inflation_Freight --time-series --with-lines --output=display \
+{ set title "US Inflation and Rolling Cross-Correlation PPI Inflation of Deep Sea Freight"; \
+  set linetype 1 lc rgb "black"; set linetype 2 lc rgb "red"; } 
+  
+gnuplot Inflation Inflation_Energy --time-series --with-lines --output=display \
+{ set title "US Inflation and Rolling Cross-Correlation with Global Price of Energy"; \
+  set linetype 1 lc rgb "black"; set linetype 2 lc rgb "red"; } 
+  
+gnuplot Inflation Inflation_FFRate --time-series --with-lines --output=display \
+{ set title "US Inflation and Rolling Cross-Correlation with Federal Funds Rate"; \
+  set linetype 1 lc rgb "black"; set linetype 2 lc rgb "red"; } 
+
+# Reset the sample again, prepare for forecasting exercise
+smpl full
+
+# Now, we shall do a forecasting exercise based on these cross correlations
+scalar froll = 24
+series yf1 = NA
+series yf2 = NA
+series yf3 = NA
+series yf4 = NA
+
+# Select starting points correctly, must be at or after 2017:04
+id = 2019:12
+ed = 2023:05
+t_start = obsnum(id)+froll
+t_end = obsnum(ed)-1
+
+# The loop for the forecasting exercise
+loop i=t_start..t_end
+    smpl i-froll+1 i
+    ols Inflation const Inflation(-1) 
+    omit --auto=0.1
+    smpl i+1 i+1
+    fcast --static 
+    yf1[i] = $fcast
+    #
+    smpl i-froll+1 i
+    ols Inflation const Inflation(-1) Energy(-12) Freight(-12) 
+    omit --auto=0.1
+    smpl i+1 i+1
+    fcast --static
+    yf2[i] = $fcast
+    #
+    smpl i-froll+1 i
+    ols Inflation const Inflation(-1) Inflation_Energy(-12) 
+    omit --auto=0.1
+    smpl i+1 i+1
+    fcast --static
+    yf3[i] = $fcast
+    #
+    smpl i-froll+1 i
+    ols Inflation const Inflation(-1) Inflation_Energy(-12) Inflation_Freight(-12) 
+    omit --auto=0.1
+    smpl i+1 i+1
+    fcast --static
+    yf4[i] = $fcast
+endloop
+
+smpl t_start+1 t_end+1 
+series ef1 = Inflation - yf1
+series ef2 = Inflation - yf2
+series ef3 = Inflation - yf3
+series ef4 = Inflation - yf4
+summary ef1 ef2 ef3 ef4 --simple  
+
+scalar mse1 = mean(ef1^2)
+scalar mse2 = mean(ef2^2)
+scalar mse3 = mean(ef3^2)
+scalar mse4 = mean(ef4^4)
+
+scalar mae1 = mean(abs(ef1))
+scalar mae2 = mean(abs(ef2))
+scalar mae3 = mean(abs(ef3))
+scalar mae4 = mean(abs(ef4))
