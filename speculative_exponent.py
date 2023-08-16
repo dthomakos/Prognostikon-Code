@@ -27,7 +27,7 @@ data = yf.download(ticker, period='max', interval='1d')['Adj Close'].dropna()
 # Get percent returns, select period of estimation/evaluation
 y = data.pct_change().dropna().loc['2022-01-01':]
 
-# Selec the rolling window - note that this will be used twice
+# Select the rolling window
 roll = 63
 # Set the exponent
 set_alpha = 7
