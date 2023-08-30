@@ -36,7 +36,7 @@ roll = 63
 # Set the exponent
 set_alpha = 7
 # Short? set to -1 for shorting the second asset
-set_short = -1
+set_short = 1
 # Compute the rolling mean and the weighted rolling means
 mu0 = y.rolling(window=roll).mean()
 mu1 = y.rolling(window=roll).apply(weighted_mean, args=(1.0,))
@@ -49,9 +49,14 @@ s2 = mu2.apply(np.sign)
 # Get the benchmark right
 bench = r.iloc[roll:]
 # And do the rotation below
-r0 = (r[ticker1]*(s0.shift(periods=1) >= 0) + set_short * r[ticker2]*(s0.shift(periods=1) < 0)).dropna()
-r1 = (r[ticker1]*(s1.shift(periods=1) >= 0) + set_short * r[ticker2]*(s1.shift(periods=1) < 0)).dropna()
-r2 = (r[ticker1]*(s2.shift(periods=1) >= 0) + set_short * r[ticker2]*(s2.shift(periods=1) < 0)).dropna()
+if set_short == 1:
+    r0 = (r[ticker1]*(s0.shift(periods=1) >= 0) + r[ticker2]*(s0.shift(periods=1) < 0)).dropna()
+    r1 = (r[ticker1]*(s1.shift(periods=1) >= 0) + r[ticker2]*(s1.shift(periods=1) < 0)).dropna()
+    r2 = (r[ticker1]*(s2.shift(periods=1) >= 0) + r[ticker2]*(s2.shift(periods=1) < 0)).dropna()
+elif set_short == -1:
+    r0 = (y*(s0.shift(periods=1) >= 0) - y*(s0.shift(periods=1) < 0)).dropna()
+    r1 = (y*(s1.shift(periods=1) >= 0) - y*(s1.shift(periods=1) < 0)).dropna()
+    r2 = (y*(s2.shift(periods=1) >= 0) - y*(s2.shift(periods=1) < 0)).dropna()
 
 # Put together, cumulate and plot
 all = pd.concat([bench, r0, r1, r2], axis=1).dropna()
