@@ -1,7 +1,7 @@
 #
 # Python code replicating results on this post:
 #
-# https://prognostikon.wordpress.com/2023/10/07/get-rich-quick-or-the-%ce%bc-strategy/
+# https://prognostikon.wordpress.com/2023/10/07/get-rich-quick-or-the-μ-strategy/
 #
 # at my blog Prognostikon
 #
