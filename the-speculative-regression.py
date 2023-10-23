@@ -15,7 +15,6 @@ import pandas as pd
 import yfinance as yf
 import statsmodels.api as sm
 
-
 # Linear model, least squares or robust, from statsmodels with sequential eliminination based on p-values
 def sequential_elimination_lm(set_Y, set_X, set_alpha, robust=False):
     if robust:
