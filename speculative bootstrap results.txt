@@ -1,0 +1,1592 @@
+----------------------------------------
+Now doing asset SPY
+Evaluation starts 2023-04-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.11165 1.16322
+Now doing combination of b = 25  and n = 10
+1.06224 1.14667
+Now doing combination of b = 25  and n = 14
+1.10332 1.15879
+Now doing combination of b = 50  and n = 7
+1.11165 1.16322
+Now doing combination of b = 50  and n = 10
+1.06224 1.14667
+Now doing combination of b = 50  and n = 14
+1.01373 1.14611
+Now doing combination of b = 150  and n = 7
+1.11165 1.16322
+Now doing combination of b = 150  and n = 10
+1.06224 1.14667
+Now doing combination of b = 150  and n = 14
+1.03613 1.1524
+----------------------------------------
+Now doing asset SPY
+Evaluation starts 2023-05-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.07314 1.1517
+Now doing combination of b = 25  and n = 10
+1.12863 1.15321
+Now doing combination of b = 25  and n = 14
+1.11104 1.15532
+Now doing combination of b = 50  and n = 7
+1.07314 1.1517
+Now doing combination of b = 50  and n = 10
+1.12863 1.15321
+Now doing combination of b = 50  and n = 14
+1.11104 1.15532
+Now doing combination of b = 150  and n = 7
+1.07314 1.1517
+Now doing combination of b = 150  and n = 10
+1.12863 1.15321
+Now doing combination of b = 150  and n = 14
+1.14446 1.14925
+----------------------------------------
+Now doing asset SPY
+Evaluation starts 2023-06-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.03497 1.08701
+Now doing combination of b = 25  and n = 10
+1.07966 1.07242
+Now doing combination of b = 25  and n = 14
+1.07966 1.07242
+Now doing combination of b = 50  and n = 7
+1.03497 1.08701
+Now doing combination of b = 50  and n = 10
+1.07966 1.07242
+Now doing combination of b = 50  and n = 14
+1.0575 1.10608
+Now doing combination of b = 150  and n = 7
+1.03497 1.08701
+Now doing combination of b = 150  and n = 10
+1.07966 1.07242
+Now doing combination of b = 150  and n = 14
+1.07966 1.07242
+----------------------------------------
+Now doing asset SPY
+Evaluation starts 2023-07-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.04886 1.05256
+Now doing combination of b = 25  and n = 10
+1.06327 1.04892
+Now doing combination of b = 25  and n = 14
+1.04822 1.04118
+Now doing combination of b = 50  and n = 7
+1.04886 1.05256
+Now doing combination of b = 50  and n = 10
+1.06327 1.04892
+Now doing combination of b = 50  and n = 14
+1.02501 1.07559
+Now doing combination of b = 150  and n = 7
+1.04886 1.05256
+Now doing combination of b = 150  and n = 10
+1.06327 1.04892
+Now doing combination of b = 150  and n = 14
+1.02698 1.03887
+----------------------------------------
+Now doing asset SPY
+Evaluation starts 2023-08-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.03663 1.06114
+Now doing combination of b = 25  and n = 10
+1.06038 1.05531
+Now doing combination of b = 25  and n = 14
+1.04101 1.06775
+Now doing combination of b = 50  and n = 7
+1.03663 1.06114
+Now doing combination of b = 50  and n = 10
+1.06038 1.05531
+Now doing combination of b = 50  and n = 14
+1.01794 1.0839
+Now doing combination of b = 150  and n = 7
+1.03663 1.06114
+Now doing combination of b = 150  and n = 10
+1.06038 1.05531
+Now doing combination of b = 150  and n = 14
+1.04101 1.06775
+----------------------------------------
+Now doing asset SPY
+Evaluation starts 2023-09-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.06362 1.05004
+Now doing combination of b = 25  and n = 10
+1.06661 1.06284
+Now doing combination of b = 25  and n = 14
+1.06723 1.06222
+Now doing combination of b = 50  and n = 7
+1.06362 1.05004
+Now doing combination of b = 50  and n = 10
+1.06661 1.06284
+Now doing combination of b = 50  and n = 14
+1.06362 1.05004
+Now doing combination of b = 150  and n = 7
+1.06362 1.05004
+Now doing combination of b = 150  and n = 10
+1.06661 1.06284
+Now doing combination of b = 150  and n = 14
+1.06723 1.06222
+----------------------------------------
+Now doing asset SPY
+Evaluation starts 2023-10-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.08177 1.08002
+Now doing combination of b = 25  and n = 10
+1.04295 1.09208
+Now doing combination of b = 25  and n = 14
+1.04789 1.09536
+Now doing combination of b = 50  and n = 7
+1.08177 1.08002
+Now doing combination of b = 50  and n = 10
+1.04295 1.09208
+Now doing combination of b = 50  and n = 14
+1.04789 1.09536
+Now doing combination of b = 150  and n = 7
+1.08177 1.08002
+Now doing combination of b = 150  and n = 10
+1.04295 1.09208
+Now doing combination of b = 150  and n = 14
+1.0321 1.08071
+----------------------------------------
+Now doing asset SPY
+Evaluation starts 2023-11-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.08619 1.08619
+Now doing combination of b = 25  and n = 10
+1.05015 1.05015
+Now doing combination of b = 25  and n = 14
+1.05431 1.07052
+Now doing combination of b = 50  and n = 7
+1.08619 1.08619
+Now doing combination of b = 50  and n = 10
+1.05015 1.05015
+Now doing combination of b = 50  and n = 14
+1.04793 1.04793
+Now doing combination of b = 150  and n = 7
+1.08619 1.08619
+Now doing combination of b = 150  and n = 10
+1.05015 1.05015
+Now doing combination of b = 150  and n = 14
+1.04793 1.04793
+
+----------------------------------------
+Now doing asset IWF
+Evaluation starts 2023-04-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.2055 1.25306
+Now doing combination of b = 25  and n = 10
+1.1139 1.23268
+Now doing combination of b = 25  and n = 14
+1.06636 1.23602
+Now doing combination of b = 50  and n = 7
+1.2055 1.25306
+Now doing combination of b = 50  and n = 10
+1.1139 1.23268
+Now doing combination of b = 50  and n = 14
+1.06636 1.23602
+Now doing combination of b = 150  and n = 7
+1.2055 1.25306
+Now doing combination of b = 150  and n = 10
+1.1139 1.23268
+Now doing combination of b = 150  and n = 14
+1.06636 1.23602
+----------------------------------------
+Now doing asset IWF
+Evaluation starts 2023-05-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.16839 1.21159
+Now doing combination of b = 25  and n = 10
+1.175 1.21432
+Now doing combination of b = 25  and n = 14
+1.06028 1.18146
+Now doing combination of b = 50  and n = 7
+1.16839 1.21159
+Now doing combination of b = 50  and n = 10
+1.175 1.21432
+Now doing combination of b = 50  and n = 14
+1.06028 1.18146
+Now doing combination of b = 150  and n = 7
+1.16839 1.21159
+Now doing combination of b = 150  and n = 10
+1.175 1.21432
+Now doing combination of b = 150  and n = 14
+1.06028 1.18146
+----------------------------------------
+Now doing asset IWF
+Evaluation starts 2023-06-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.15873 1.14106
+Now doing combination of b = 25  and n = 10
+1.07773 1.1138
+Now doing combination of b = 25  and n = 14
+1.00357 1.11827
+Now doing combination of b = 50  and n = 7
+1.15873 1.14106
+Now doing combination of b = 50  and n = 10
+1.07773 1.1138
+Now doing combination of b = 50  and n = 14
+1.00357 1.11827
+Now doing combination of b = 150  and n = 7
+1.15873 1.14106
+Now doing combination of b = 150  and n = 10
+1.07773 1.1138
+Now doing combination of b = 150  and n = 14
+1.00357 1.11827
+----------------------------------------
+Now doing asset IWF
+Evaluation starts 2023-07-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.15556 1.0888
+Now doing combination of b = 25  and n = 10
+1.02987 1.06433
+Now doing combination of b = 25  and n = 14
+0.96946 1.07835
+Now doing combination of b = 50  and n = 7
+1.15556 1.0888
+Now doing combination of b = 50  and n = 10
+1.02987 1.06433
+Now doing combination of b = 50  and n = 14
+0.96946 1.07835
+Now doing combination of b = 150  and n = 7
+1.15556 1.0888
+Now doing combination of b = 150  and n = 10
+1.02987 1.06433
+Now doing combination of b = 150  and n = 14
+0.96946 1.07835
+----------------------------------------
+Now doing asset IWF
+Evaluation starts 2023-08-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.15868 1.09921
+Now doing combination of b = 25  and n = 10
+1.0321 1.09046
+Now doing combination of b = 25  and n = 14
+0.93742 1.12386
+Now doing combination of b = 50  and n = 7
+1.15868 1.09921
+Now doing combination of b = 50  and n = 10
+1.0321 1.09046
+Now doing combination of b = 50  and n = 14
+0.93742 1.12386
+Now doing combination of b = 150  and n = 7
+1.15868 1.09921
+Now doing combination of b = 150  and n = 10
+1.0321 1.09046
+Now doing combination of b = 150  and n = 14
+0.93742 1.12386
+----------------------------------------
+Now doing asset IWF
+Evaluation starts 2023-09-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.12904 1.0825
+Now doing combination of b = 25  and n = 10
+1.11593 1.0721
+Now doing combination of b = 25  and n = 14
+0.96069 1.12617
+Now doing combination of b = 50  and n = 7
+1.12904 1.0825
+Now doing combination of b = 50  and n = 10
+1.07878 1.08908
+Now doing combination of b = 50  and n = 14
+0.96069 1.12617
+Now doing combination of b = 150  and n = 7
+1.12904 1.0825
+Now doing combination of b = 150  and n = 10
+1.07878 1.08908
+Now doing combination of b = 150  and n = 14
+0.96069 1.12617
+----------------------------------------
+Now doing asset IWF
+Evaluation starts 2023-10-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.09838 1.09679
+Now doing combination of b = 25  and n = 10
+1.02532 1.1042
+Now doing combination of b = 25  and n = 14
+1.00908 1.12058
+Now doing combination of b = 50  and n = 7
+1.09838 1.09679
+Now doing combination of b = 50  and n = 10
+1.02532 1.1042
+Now doing combination of b = 50  and n = 14
+1.00908 1.12058
+Now doing combination of b = 150  and n = 7
+1.09838 1.09679
+Now doing combination of b = 150  and n = 10
+1.02532 1.1042
+Now doing combination of b = 150  and n = 14
+1.00908 1.12058
+----------------------------------------
+Now doing asset IWF
+Evaluation starts 2023-11-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.05575 1.08719
+Now doing combination of b = 25  and n = 10
+1.02251 1.04698
+Now doing combination of b = 25  and n = 14
+1.03359 1.03359
+Now doing combination of b = 50  and n = 7
+1.05575 1.08719
+Now doing combination of b = 50  and n = 10
+1.02251 1.04698
+Now doing combination of b = 50  and n = 14
+1.03359 1.03359
+Now doing combination of b = 150  and n = 7
+1.05575 1.08719
+Now doing combination of b = 150  and n = 10
+1.02251 1.04698
+Now doing combination of b = 150  and n = 14
+1.03359 1.03359
+
+----------------------------------------
+Now doing asset QQQ
+Evaluation starts 2023-04-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.17873 1.2985
+Now doing combination of b = 25  and n = 10
+1.15533 1.27488
+Now doing combination of b = 25  and n = 14
+1.09281 1.28386
+Now doing combination of b = 50  and n = 7
+1.17873 1.2985
+Now doing combination of b = 50  and n = 10
+1.15533 1.27488
+Now doing combination of b = 50  and n = 14
+1.09281 1.28386
+Now doing combination of b = 150  and n = 7
+1.17873 1.2985
+Now doing combination of b = 150  and n = 10
+1.15533 1.27488
+Now doing combination of b = 150  and n = 14
+1.09281 1.28386
+----------------------------------------
+Now doing asset QQQ
+Evaluation starts 2023-05-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.21657 1.24612
+Now doing combination of b = 25  and n = 10
+1.13503 1.2506
+Now doing combination of b = 25  and n = 14
+1.08939 1.20522
+Now doing combination of b = 50  and n = 7
+1.21657 1.24612
+Now doing combination of b = 50  and n = 10
+1.13503 1.2506
+Now doing combination of b = 50  and n = 14
+1.08939 1.20522
+Now doing combination of b = 150  and n = 7
+1.21657 1.24612
+Now doing combination of b = 150  and n = 10
+1.13503 1.2506
+Now doing combination of b = 150  and n = 14
+1.08939 1.20522
+----------------------------------------
+Now doing asset QQQ
+Evaluation starts 2023-06-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.13624 1.14664
+Now doing combination of b = 25  and n = 10
+1.00825 1.11091
+Now doing combination of b = 25  and n = 14
+1.01386 1.12165
+Now doing combination of b = 50  and n = 7
+1.13624 1.14664
+Now doing combination of b = 50  and n = 10
+1.00825 1.11091
+Now doing combination of b = 50  and n = 14
+1.01386 1.12165
+Now doing combination of b = 150  and n = 7
+1.13624 1.14664
+Now doing combination of b = 150  and n = 10
+1.00825 1.11091
+Now doing combination of b = 150  and n = 14
+1.01386 1.12165
+----------------------------------------
+Now doing asset QQQ
+Evaluation starts 2023-07-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.12107 1.0888
+Now doing combination of b = 25  and n = 10
+0.99774 1.06094
+Now doing combination of b = 25  and n = 14
+1.04065 1.05233
+Now doing combination of b = 50  and n = 7
+1.12107 1.0888
+Now doing combination of b = 50  and n = 10
+0.99774 1.06094
+Now doing combination of b = 50  and n = 14
+0.98715 1.08066
+Now doing combination of b = 150  and n = 7
+1.12107 1.0888
+Now doing combination of b = 150  and n = 10
+0.99774 1.06094
+Now doing combination of b = 150  and n = 14
+0.98715 1.08066
+----------------------------------------
+Now doing asset QQQ
+Evaluation starts 2023-08-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.14171 1.10333
+Now doing combination of b = 25  and n = 10
+1.00161 1.09606
+Now doing combination of b = 25  and n = 14
+0.94817 1.13346
+Now doing combination of b = 50  and n = 7
+1.14171 1.10333
+Now doing combination of b = 50  and n = 10
+1.00161 1.09606
+Now doing combination of b = 50  and n = 14
+0.94817 1.13346
+Now doing combination of b = 150  and n = 7
+1.14171 1.10333
+Now doing combination of b = 150  and n = 10
+1.00161 1.09606
+Now doing combination of b = 150  and n = 14
+0.94817 1.13346
+----------------------------------------
+Now doing asset QQQ
+Evaluation starts 2023-09-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.13111 1.08889
+Now doing combination of b = 25  and n = 10
+1.08884 1.0947
+Now doing combination of b = 25  and n = 14
+0.97336 1.13268
+Now doing combination of b = 50  and n = 7
+1.13111 1.08889
+Now doing combination of b = 50  and n = 10
+1.08884 1.0947
+Now doing combination of b = 50  and n = 14
+0.97336 1.13268
+Now doing combination of b = 150  and n = 7
+1.13111 1.08889
+Now doing combination of b = 150  and n = 10
+1.08884 1.0947
+Now doing combination of b = 150  and n = 14
+0.97336 1.13268
+----------------------------------------
+Now doing asset QQQ
+Evaluation starts 2023-10-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.10703 1.0997
+Now doing combination of b = 25  and n = 10
+1.03724 1.10967
+Now doing combination of b = 25  and n = 14
+1.02782 1.12604
+Now doing combination of b = 50  and n = 7
+1.10703 1.0997
+Now doing combination of b = 50  and n = 10
+1.03724 1.10967
+Now doing combination of b = 50  and n = 14
+1.01385 1.09726
+Now doing combination of b = 150  and n = 7
+1.10703 1.0997
+Now doing combination of b = 150  and n = 10
+1.03724 1.10967
+Now doing combination of b = 150  and n = 14
+1.02782 1.12604
+----------------------------------------
+Now doing asset QQQ
+Evaluation starts 2023-11-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.06601 1.09531
+Now doing combination of b = 25  and n = 10
+1.03484 1.05193
+Now doing combination of b = 25  and n = 14
+1.00878 1.03737
+Now doing combination of b = 50  and n = 7
+1.06601 1.09531
+Now doing combination of b = 50  and n = 10
+1.03484 1.05193
+Now doing combination of b = 50  and n = 14
+1.00878 1.03737
+Now doing combination of b = 150  and n = 7
+1.06601 1.09531
+Now doing combination of b = 150  and n = 10
+1.03484 1.05193
+Now doing combination of b = 150  and n = 14
+1.00878 1.03737
+
+----------------------------------------
+Now doing asset TNA
+Evaluation starts 2023-04-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.52203 1.18471
+Now doing combination of b = 25  and n = 10
+1.25127 1.17511
+Now doing combination of b = 25  and n = 14
+1.67808 1.19902
+Now doing combination of b = 50  and n = 7
+1.52203 1.18471
+Now doing combination of b = 50  and n = 10
+1.25127 1.17511
+Now doing combination of b = 50  and n = 14
+1.67808 1.19902
+Now doing combination of b = 150  and n = 7
+1.52203 1.18471
+Now doing combination of b = 150  and n = 10
+1.25127 1.17511
+Now doing combination of b = 150  and n = 14
+1.67808 1.19902
+----------------------------------------
+Now doing asset TNA
+Evaluation starts 2023-05-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.27611 1.31345
+Now doing combination of b = 25  and n = 10
+1.42018 1.32267
+Now doing combination of b = 25  and n = 14
+1.55073 1.22951
+Now doing combination of b = 50  and n = 7
+1.27611 1.31345
+Now doing combination of b = 50  and n = 10
+1.42018 1.32267
+Now doing combination of b = 50  and n = 14
+1.55073 1.22951
+Now doing combination of b = 150  and n = 7
+1.27611 1.31345
+Now doing combination of b = 150  and n = 10
+1.42018 1.32267
+Now doing combination of b = 150  and n = 14
+1.55073 1.22951
+----------------------------------------
+Now doing asset TNA
+Evaluation starts 2023-06-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.41347 1.07464
+Now doing combination of b = 25  and n = 10
+1.41347 1.07464
+Now doing combination of b = 25  and n = 14
+0.87435 1.04923
+Now doing combination of b = 50  and n = 7
+1.41347 1.07464
+Now doing combination of b = 50  and n = 10
+1.41347 1.07464
+Now doing combination of b = 50  and n = 14
+1.06396 1.19636
+Now doing combination of b = 150  and n = 7
+1.41347 1.07464
+Now doing combination of b = 150  and n = 10
+1.41347 1.07464
+Now doing combination of b = 150  and n = 14
+1.41347 1.07464
+----------------------------------------
+Now doing asset TNA
+Evaluation starts 2023-07-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.55203 0.96772
+Now doing combination of b = 25  and n = 10
+1.55203 0.96772
+Now doing combination of b = 25  and n = 14
+1.1376 1.05255
+Now doing combination of b = 50  and n = 7
+1.55203 0.96772
+Now doing combination of b = 50  and n = 10
+1.55203 0.96772
+Now doing combination of b = 50  and n = 14
+1.51069 0.92221
+Now doing combination of b = 150  and n = 7
+1.55203 0.96772
+Now doing combination of b = 150  and n = 10
+1.55203 0.96772
+Now doing combination of b = 150  and n = 14
+1.51069 0.92221
+----------------------------------------
+Now doing asset TNA
+Evaluation starts 2023-08-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.65657 1.02211
+Now doing combination of b = 25  and n = 10
+1.41968 1.02462
+Now doing combination of b = 25  and n = 14
+1.45405 1.13139
+Now doing combination of b = 50  and n = 7
+1.65657 1.02211
+Now doing combination of b = 50  and n = 10
+1.41968 1.02462
+Now doing combination of b = 50  and n = 14
+1.45405 1.13139
+Now doing combination of b = 150  and n = 7
+1.65657 1.02211
+Now doing combination of b = 150  and n = 10
+1.41968 1.02462
+Now doing combination of b = 150  and n = 14
+1.45405 1.13139
+----------------------------------------
+Now doing asset TNA
+Evaluation starts 2023-09-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.67969 1.17652
+Now doing combination of b = 25  and n = 10
+1.46433 1.16881
+Now doing combination of b = 25  and n = 14
+1.44462 1.30453
+Now doing combination of b = 50  and n = 7
+1.67969 1.17652
+Now doing combination of b = 50  and n = 10
+1.46433 1.16881
+Now doing combination of b = 50  and n = 14
+1.44462 1.30453
+Now doing combination of b = 150  and n = 7
+1.67969 1.17652
+Now doing combination of b = 150  and n = 10
+1.46433 1.16881
+Now doing combination of b = 150  and n = 14
+1.44462 1.30453
+----------------------------------------
+Now doing asset TNA
+Evaluation starts 2023-10-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.50481 1.33476
+Now doing combination of b = 25  and n = 10
+1.20097 1.46881
+Now doing combination of b = 25  and n = 14
+1.27259 1.51825
+Now doing combination of b = 50  and n = 7
+1.50481 1.33476
+Now doing combination of b = 50  and n = 10
+1.20097 1.46881
+Now doing combination of b = 50  and n = 14
+1.27259 1.51825
+Now doing combination of b = 150  and n = 7
+1.50481 1.33476
+Now doing combination of b = 150  and n = 10
+1.20097 1.46881
+Now doing combination of b = 150  and n = 14
+1.27259 1.51825
+----------------------------------------
+Now doing asset TNA
+Evaluation starts 2023-11-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.48474 1.53317
+Now doing combination of b = 25  and n = 10
+1.31599 1.31599
+Now doing combination of b = 25  and n = 14
+1.30181 1.30181
+Now doing combination of b = 50  and n = 7
+1.48474 1.53317
+Now doing combination of b = 50  and n = 10
+1.31599 1.31599
+Now doing combination of b = 50  and n = 14
+1.30181 1.30181
+Now doing combination of b = 150  and n = 7
+1.48474 1.53317
+Now doing combination of b = 150  and n = 10
+1.31599 1.31599
+Now doing combination of b = 150  and n = 14
+1.30181 1.30181
+
+----------------------------------------
+Now doing asset VXX
+Evaluation starts 2023-04-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.99414 0.40861
+Now doing combination of b = 25  and n = 10
+0.99414 0.40861
+Now doing combination of b = 25  and n = 14
+1.53348 0.36132
+Now doing combination of b = 50  and n = 7
+0.99414 0.40861
+Now doing combination of b = 50  and n = 10
+0.99414 0.40861
+Now doing combination of b = 50  and n = 14
+1.53348 0.36132
+Now doing combination of b = 150  and n = 7
+0.99414 0.40861
+Now doing combination of b = 150  and n = 10
+0.99414 0.40861
+Now doing combination of b = 150  and n = 14
+1.53348 0.36132
+----------------------------------------
+Now doing asset VXX
+Evaluation starts 2023-05-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.02864 0.43029
+Now doing combination of b = 25  and n = 10
+1.02864 0.43029
+Now doing combination of b = 25  and n = 14
+1.69464 0.41502
+Now doing combination of b = 50  and n = 7
+1.02864 0.43029
+Now doing combination of b = 50  and n = 10
+1.02864 0.43029
+Now doing combination of b = 50  and n = 14
+1.69464 0.41502
+Now doing combination of b = 150  and n = 7
+1.02864 0.43029
+Now doing combination of b = 150  and n = 10
+1.02864 0.43029
+Now doing combination of b = 150  and n = 14
+1.69464 0.41502
+----------------------------------------
+Now doing asset VXX
+Evaluation starts 2023-06-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.80844 0.58542
+Now doing combination of b = 25  and n = 10
+0.80844 0.58542
+Now doing combination of b = 25  and n = 14
+1.24562 0.57214
+Now doing combination of b = 50  and n = 7
+0.80844 0.58542
+Now doing combination of b = 50  and n = 10
+0.80844 0.58542
+Now doing combination of b = 50  and n = 14
+1.58832 0.51764
+Now doing combination of b = 150  and n = 7
+0.80844 0.58542
+Now doing combination of b = 150  and n = 10
+0.80844 0.58542
+Now doing combination of b = 150  and n = 14
+0.80844 0.58542
+----------------------------------------
+Now doing asset VXX
+Evaluation starts 2023-07-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.05593 0.67054
+Now doing combination of b = 25  and n = 10
+0.70932 0.67616
+Now doing combination of b = 25  and n = 14
+0.70932 0.67616
+Now doing combination of b = 50  and n = 7
+1.05593 0.67054
+Now doing combination of b = 50  and n = 10
+0.70932 0.67616
+Now doing combination of b = 50  and n = 14
+0.70932 0.67616
+Now doing combination of b = 150  and n = 7
+1.05593 0.67054
+Now doing combination of b = 150  and n = 10
+0.70932 0.67616
+Now doing combination of b = 150  and n = 14
+0.70932 0.67616
+----------------------------------------
+Now doing asset VXX
+Evaluation starts 2023-08-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.89199 0.6773
+Now doing combination of b = 25  and n = 10
+0.80567 0.68915
+Now doing combination of b = 25  and n = 14
+1.12919 0.62777
+Now doing combination of b = 50  and n = 7
+0.89199 0.6773
+Now doing combination of b = 50  and n = 10
+0.80567 0.68915
+Now doing combination of b = 50  and n = 14
+1.12919 0.62777
+Now doing combination of b = 150  and n = 7
+0.89199 0.6773
+Now doing combination of b = 150  and n = 10
+0.80567 0.68915
+Now doing combination of b = 150  and n = 14
+1.12919 0.62777
+----------------------------------------
+Now doing asset VXX
+Evaluation starts 2023-09-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.78846 0.78046
+Now doing combination of b = 25  and n = 10
+0.78846 0.78046
+Now doing combination of b = 25  and n = 14
+1.14238 0.70758
+Now doing combination of b = 50  and n = 7
+0.78846 0.78046
+Now doing combination of b = 50  and n = 10
+0.78846 0.78046
+Now doing combination of b = 50  and n = 14
+1.14238 0.70758
+Now doing combination of b = 150  and n = 7
+0.78846 0.78046
+Now doing combination of b = 150  and n = 10
+0.78846 0.78046
+Now doing combination of b = 150  and n = 14
+1.14238 0.70758
+----------------------------------------
+Now doing asset VXX
+Evaluation starts 2023-10-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.01238 0.63744
+Now doing combination of b = 25  and n = 10
+1.01238 0.63744
+Now doing combination of b = 25  and n = 14
+1.09421 0.61369
+Now doing combination of b = 50  and n = 7
+1.01238 0.63744
+Now doing combination of b = 50  and n = 10
+1.01238 0.63744
+Now doing combination of b = 50  and n = 14
+1.09421 0.61369
+Now doing combination of b = 150  and n = 7
+1.01238 0.63744
+Now doing combination of b = 150  and n = 10
+1.01238 0.63744
+Now doing combination of b = 150  and n = 14
+1.09421 0.61369
+----------------------------------------
+Now doing asset VXX
+Evaluation starts 2023-11-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.18413 0.78809
+Now doing combination of b = 25  and n = 10
+1.11972 0.74412
+Now doing combination of b = 25  and n = 14
+1.18413 0.78809
+Now doing combination of b = 50  and n = 7
+1.11972 0.74412
+Now doing combination of b = 50  and n = 10
+1.11972 0.74412
+Now doing combination of b = 50  and n = 14
+1.22587 0.807
+Now doing combination of b = 150  and n = 7
+1.11972 0.74412
+Now doing combination of b = 150  and n = 10
+1.11972 0.74412
+Now doing combination of b = 150  and n = 14
+1.11972 0.74412
+
+----------------------------------------
+Now doing asset DBA
+Evaluation starts 2023-04-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.09167 1.05729
+Now doing combination of b = 25  and n = 10
+0.92904 1.03585
+Now doing combination of b = 25  and n = 14
+0.88513 1.04871
+Now doing combination of b = 50  and n = 7
+1.09167 1.05729
+Now doing combination of b = 50  and n = 10
+0.92904 1.03585
+Now doing combination of b = 50  and n = 14
+0.88513 1.04871
+Now doing combination of b = 150  and n = 7
+1.09167 1.05729
+Now doing combination of b = 150  and n = 10
+0.92904 1.03585
+Now doing combination of b = 150  and n = 14
+0.88513 1.04871
+----------------------------------------
+Now doing asset DBA
+Evaluation starts 2023-05-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.08853 1.04771
+Now doing combination of b = 25  and n = 10
+0.98944 1.05425
+Now doing combination of b = 25  and n = 14
+0.90636 1.06087
+Now doing combination of b = 50  and n = 7
+1.08853 1.04771
+Now doing combination of b = 50  and n = 10
+0.98944 1.05425
+Now doing combination of b = 50  and n = 14
+0.90636 1.06087
+Now doing combination of b = 150  and n = 7
+1.08853 1.04771
+Now doing combination of b = 150  and n = 10
+0.98944 1.05425
+Now doing combination of b = 150  and n = 14
+0.90636 1.06087
+----------------------------------------
+Now doing asset DBA
+Evaluation starts 2023-06-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.05888 1.03634
+Now doing combination of b = 25  and n = 10
+1.00074 1.02954
+Now doing combination of b = 25  and n = 14
+0.89003 0.99232
+Now doing combination of b = 50  and n = 7
+1.05888 1.03634
+Now doing combination of b = 50  and n = 10
+1.00074 1.02954
+Now doing combination of b = 50  and n = 14
+0.89003 0.99232
+Now doing combination of b = 150  and n = 7
+1.05888 1.03634
+Now doing combination of b = 150  and n = 10
+1.00074 1.02954
+Now doing combination of b = 150  and n = 14
+0.89003 0.99232
+----------------------------------------
+Now doing asset DBA
+Evaluation starts 2023-07-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.01646 1.02665
+Now doing combination of b = 25  and n = 10
+1.04651 0.99818
+Now doing combination of b = 25  and n = 14
+1.07686 1.02857
+Now doing combination of b = 50  and n = 7
+1.04735 1.03536
+Now doing combination of b = 50  and n = 10
+1.04651 0.99818
+Now doing combination of b = 50  and n = 14
+1.04735 1.03536
+Now doing combination of b = 150  and n = 7
+1.04735 1.03536
+Now doing combination of b = 150  and n = 10
+1.04651 0.99818
+Now doing combination of b = 150  and n = 14
+1.04651 0.99818
+----------------------------------------
+Now doing asset DBA
+Evaluation starts 2023-08-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.98283 1.02665
+Now doing combination of b = 25  and n = 10
+0.98283 1.02665
+Now doing combination of b = 25  and n = 14
+1.04395 1.03634
+Now doing combination of b = 50  and n = 7
+0.98283 1.02665
+Now doing combination of b = 50  and n = 10
+0.98338 1.03341
+Now doing combination of b = 50  and n = 14
+0.98283 1.02665
+Now doing combination of b = 150  and n = 7
+0.98283 1.02665
+Now doing combination of b = 150  and n = 10
+0.98338 1.03341
+Now doing combination of b = 150  and n = 14
+1.02372 1.02569
+----------------------------------------
+Now doing asset DBA
+Evaluation starts 2023-09-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.94672 0.99773
+Now doing combination of b = 25  and n = 10
+0.96325 0.98299
+Now doing combination of b = 25  and n = 14
+0.9533 0.99637
+Now doing combination of b = 50  and n = 7
+0.94672 0.99773
+Now doing combination of b = 50  and n = 10
+0.96325 0.98299
+Now doing combination of b = 50  and n = 14
+0.94672 0.99773
+Now doing combination of b = 150  and n = 7
+0.94672 0.99773
+Now doing combination of b = 150  and n = 10
+0.96325 0.98299
+Now doing combination of b = 150  and n = 14
+0.9533 0.99637
+----------------------------------------
+Now doing asset DBA
+Evaluation starts 2023-10-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.95185 1.01761
+Now doing combination of b = 25  and n = 10
+0.99564 1.0162
+Now doing combination of b = 25  and n = 14
+0.99333 1.02569
+Now doing combination of b = 50  and n = 7
+0.93778 1.01808
+Now doing combination of b = 50  and n = 10
+0.94471 1.01903
+Now doing combination of b = 50  and n = 14
+0.93778 1.01808
+Now doing combination of b = 150  and n = 7
+0.93778 1.01808
+Now doing combination of b = 150  and n = 10
+0.94471 1.01903
+Now doing combination of b = 150  and n = 14
+0.94471 1.01903
+----------------------------------------
+Now doing asset DBA
+Evaluation starts 2023-11-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.92617 0.98652
+Now doing combination of b = 25  and n = 10
+0.96225 0.98211
+Now doing combination of b = 25  and n = 14
+1.0308 0.99277
+Now doing combination of b = 50  and n = 7
+0.95532 0.99097
+Now doing combination of b = 50  and n = 10
+0.99279 0.98697
+Now doing combination of b = 50  and n = 14
+0.96426 0.99232
+Now doing combination of b = 150  and n = 7
+0.92617 0.98652
+Now doing combination of b = 150  and n = 10
+0.99279 0.98697
+Now doing combination of b = 150  and n = 14
+0.96225 0.98211
+
+----------------------------------------
+Now doing asset DBC
+Evaluation starts 2023-04-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.02051 0.95131
+Now doing combination of b = 25  and n = 10
+1.02051 0.95131
+Now doing combination of b = 25  and n = 14
+1.16683 0.95876
+Now doing combination of b = 50  and n = 7
+1.02051 0.95131
+Now doing combination of b = 50  and n = 10
+1.16683 0.95876
+Now doing combination of b = 50  and n = 14
+1.02051 0.95131
+Now doing combination of b = 150  and n = 7
+1.02051 0.95131
+Now doing combination of b = 150  and n = 10
+0.9347 0.96393
+Now doing combination of b = 150  and n = 14
+0.99823 0.95131
+----------------------------------------
+Now doing asset DBC
+Evaluation starts 2023-05-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.80611 1.0315
+Now doing combination of b = 25  and n = 10
+0.86622 1.0274
+Now doing combination of b = 25  and n = 14
+0.98079 1.01751
+Now doing combination of b = 50  and n = 7
+0.86622 1.0274
+Now doing combination of b = 50  and n = 10
+0.86622 1.0274
+Now doing combination of b = 50  and n = 14
+0.98079 1.01751
+Now doing combination of b = 150  and n = 7
+1.00505 0.997
+Now doing combination of b = 150  and n = 10
+0.98079 1.01751
+Now doing combination of b = 150  and n = 14
+0.98079 1.01751
+----------------------------------------
+Now doing asset DBC
+Evaluation starts 2023-06-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.99695 1.02604
+Now doing combination of b = 25  and n = 10
+1.05056 0.99063
+Now doing combination of b = 25  and n = 14
+0.965 0.98517
+Now doing combination of b = 50  and n = 7
+0.99695 1.02604
+Now doing combination of b = 50  and n = 10
+1.05056 0.99063
+Now doing combination of b = 50  and n = 14
+0.965 0.98517
+Now doing combination of b = 150  and n = 7
+0.99695 1.02604
+Now doing combination of b = 150  and n = 10
+1.05056 0.99063
+Now doing combination of b = 150  and n = 14
+0.965 0.98517
+----------------------------------------
+Now doing asset DBC
+Evaluation starts 2023-07-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.02972 0.99063
+Now doing combination of b = 25  and n = 10
+1.0329 0.97037
+Now doing combination of b = 25  and n = 14
+0.97516 0.9835
+Now doing combination of b = 50  and n = 7
+1.02972 0.99063
+Now doing combination of b = 50  and n = 10
+1.0329 0.97037
+Now doing combination of b = 50  and n = 14
+1.0329 0.97037
+Now doing combination of b = 150  and n = 7
+1.02972 0.99063
+Now doing combination of b = 150  and n = 10
+1.0329 0.97037
+Now doing combination of b = 150  and n = 14
+1.08517 1.00955
+----------------------------------------
+Now doing asset DBC
+Evaluation starts 2023-08-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.01949 0.94512
+Now doing combination of b = 25  and n = 10
+1.02003 0.97199
+Now doing combination of b = 25  and n = 14
+1.02003 0.97199
+Now doing combination of b = 50  and n = 7
+1.01949 0.94512
+Now doing combination of b = 50  and n = 10
+1.02003 0.97199
+Now doing combination of b = 50  and n = 14
+0.99131 0.96956
+Now doing combination of b = 150  and n = 7
+1.01949 0.94512
+Now doing combination of b = 150  and n = 10
+1.02003 0.97199
+Now doing combination of b = 150  and n = 14
+0.99131 0.96956
+----------------------------------------
+Now doing asset DBC
+Evaluation starts 2023-09-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.96665 0.91897
+Now doing combination of b = 25  and n = 10
+0.97899 0.91788
+Now doing combination of b = 25  and n = 14
+0.97899 0.91788
+Now doing combination of b = 50  and n = 7
+0.96665 0.91897
+Now doing combination of b = 50  and n = 10
+0.97899 0.91788
+Now doing combination of b = 50  and n = 14
+0.97899 0.91788
+Now doing combination of b = 150  and n = 7
+0.96665 0.91897
+Now doing combination of b = 150  and n = 10
+0.97899 0.91788
+Now doing combination of b = 150  and n = 14
+0.97899 0.91788
+----------------------------------------
+Now doing asset DBC
+Evaluation starts 2023-10-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.93585 0.95443
+Now doing combination of b = 25  and n = 10
+0.99799 0.93599
+Now doing combination of b = 25  and n = 14
+0.89056 0.96035
+Now doing combination of b = 50  and n = 7
+0.93585 0.95443
+Now doing combination of b = 50  and n = 10
+0.99799 0.93599
+Now doing combination of b = 50  and n = 14
+0.93847 0.95995
+Now doing combination of b = 150  and n = 7
+0.93585 0.95443
+Now doing combination of b = 150  and n = 10
+0.99799 0.93599
+Now doing combination of b = 150  and n = 14
+0.99966 0.92777
+----------------------------------------
+Now doing asset DBC
+Evaluation starts 2023-11-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.99978 0.97199
+Now doing combination of b = 25  and n = 10
+0.99329 0.98475
+Now doing combination of b = 25  and n = 14
+0.99329 0.98475
+Now doing combination of b = 50  and n = 7
+1.05663 0.96956
+Now doing combination of b = 50  and n = 10
+0.99329 0.98475
+Now doing combination of b = 50  and n = 14
+1.0078 0.97077
+Now doing combination of b = 150  and n = 7
+0.99978 0.97199
+Now doing combination of b = 150  and n = 10
+0.99329 0.98475
+Now doing combination of b = 150  and n = 14
+0.99329 0.98475
+
+----------------------------------------
+Now doing asset TLT
+Evaluation starts 2023-04-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.12563 0.96013
+Now doing combination of b = 25  and n = 10
+1.05425 0.97718
+Now doing combination of b = 25  and n = 14
+0.99596 0.97531
+Now doing combination of b = 50  and n = 7
+1.12563 0.96013
+Now doing combination of b = 50  and n = 10
+1.05425 0.97718
+Now doing combination of b = 50  and n = 14
+0.99596 0.97531
+Now doing combination of b = 150  and n = 7
+1.12563 0.96013
+Now doing combination of b = 150  and n = 10
+1.05425 0.97718
+Now doing combination of b = 150  and n = 14
+0.99596 0.97531
+----------------------------------------
+Now doing asset TLT
+Evaluation starts 2023-05-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.20524 0.97613
+Now doing combination of b = 25  and n = 10
+1.12328 0.99011
+Now doing combination of b = 25  and n = 14
+1.04882 0.9975
+Now doing combination of b = 50  and n = 7
+1.20524 0.97613
+Now doing combination of b = 50  and n = 10
+1.12328 0.99011
+Now doing combination of b = 50  and n = 14
+1.04882 0.9975
+Now doing combination of b = 150  and n = 7
+1.20524 0.97613
+Now doing combination of b = 150  and n = 10
+1.12328 0.99011
+Now doing combination of b = 150  and n = 14
+1.04882 0.9975
+----------------------------------------
+Now doing asset TLT
+Evaluation starts 2023-06-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.14142 0.98051
+Now doing combination of b = 25  and n = 10
+1.14142 0.98051
+Now doing combination of b = 25  and n = 14
+1.11244 0.98923
+Now doing combination of b = 50  and n = 7
+1.14142 0.98051
+Now doing combination of b = 50  and n = 10
+1.14142 0.98051
+Now doing combination of b = 50  and n = 14
+1.14142 0.98051
+Now doing combination of b = 150  and n = 7
+1.14142 0.98051
+Now doing combination of b = 150  and n = 10
+1.14142 0.98051
+Now doing combination of b = 150  and n = 14
+0.95981 0.9932
+----------------------------------------
+Now doing asset TLT
+Evaluation starts 2023-07-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.98656 1.01347
+Now doing combination of b = 25  and n = 10
+1.1178 1.01961
+Now doing combination of b = 25  and n = 14
+1.24286 1.00191
+Now doing combination of b = 50  and n = 7
+0.98656 1.01347
+Now doing combination of b = 50  and n = 10
+0.98656 1.01347
+Now doing combination of b = 50  and n = 14
+1.12509 1.01828
+Now doing combination of b = 150  and n = 7
+0.98656 1.01347
+Now doing combination of b = 150  and n = 10
+0.98656 1.01347
+Now doing combination of b = 150  and n = 14
+1.07437 0.99914
+----------------------------------------
+Now doing asset TLT
+Evaluation starts 2023-08-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.92649 1.06216
+Now doing combination of b = 25  and n = 10
+1.08258 1.04367
+Now doing combination of b = 25  and n = 14
+1.08258 1.04367
+Now doing combination of b = 50  and n = 7
+0.92649 1.06216
+Now doing combination of b = 50  and n = 10
+0.92649 1.06216
+Now doing combination of b = 50  and n = 14
+1.03823 1.03765
+Now doing combination of b = 150  and n = 7
+0.92649 1.06216
+Now doing combination of b = 150  and n = 10
+0.92649 1.06216
+Now doing combination of b = 150  and n = 14
+0.92649 1.06216
+----------------------------------------
+Now doing asset TLT
+Evaluation starts 2023-09-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.97383 1.0714
+Now doing combination of b = 25  and n = 10
+0.97383 1.0714
+Now doing combination of b = 25  and n = 14
+0.97383 1.0714
+Now doing combination of b = 50  and n = 7
+0.97383 1.0714
+Now doing combination of b = 50  and n = 10
+1.0956 1.07209
+Now doing combination of b = 50  and n = 14
+1.0157 1.07404
+Now doing combination of b = 150  and n = 7
+0.97383 1.0714
+Now doing combination of b = 150  and n = 10
+0.97383 1.0714
+Now doing combination of b = 150  and n = 14
+1.0956 1.07209
+----------------------------------------
+Now doing asset TLT
+Evaluation starts 2023-10-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.1199 1.1554
+Now doing combination of b = 25  and n = 10
+0.96289 1.16076
+Now doing combination of b = 25  and n = 14
+0.96289 1.16076
+Now doing combination of b = 50  and n = 7
+1.1199 1.1554
+Now doing combination of b = 50  and n = 10
+1.1199 1.1554
+Now doing combination of b = 50  and n = 14
+0.96289 1.16076
+Now doing combination of b = 150  and n = 7
+1.1199 1.1554
+Now doing combination of b = 150  and n = 10
+0.96289 1.16076
+Now doing combination of b = 150  and n = 14
+1.1199 1.1554
+----------------------------------------
+Now doing asset TLT
+Evaluation starts 2023-11-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.10822 1.10822
+Now doing combination of b = 25  and n = 10
+1.10822 1.10822
+Now doing combination of b = 25  and n = 14
+1.00707 1.1387
+Now doing combination of b = 50  and n = 7
+1.10822 1.10822
+Now doing combination of b = 50  and n = 10
+1.10822 1.10822
+Now doing combination of b = 50  and n = 14
+1.00707 1.1387
+Now doing combination of b = 150  and n = 7
+1.10822 1.10822
+Now doing combination of b = 150  and n = 10
+1.10822 1.10822
+Now doing combination of b = 150  and n = 14
+1.00707 1.1387
+
+----------------------------------------
+Now doing asset UNG
+Evaluation starts 2023-04-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.98463 0.72632
+Now doing combination of b = 25  and n = 10
+0.54823 0.67742
+Now doing combination of b = 25  and n = 14
+0.62548 0.69
+Now doing combination of b = 50  and n = 7
+0.98463 0.72632
+Now doing combination of b = 50  and n = 10
+0.54823 0.67742
+Now doing combination of b = 50  and n = 14
+0.62548 0.69
+Now doing combination of b = 150  and n = 7
+0.98463 0.72632
+Now doing combination of b = 150  and n = 10
+0.54823 0.67742
+Now doing combination of b = 150  and n = 14
+0.62548 0.69
+----------------------------------------
+Now doing asset UNG
+Evaluation starts 2023-05-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.0453 0.72851
+Now doing combination of b = 25  and n = 10
+0.53557 0.72741
+Now doing combination of b = 25  and n = 14
+0.61008 0.64572
+Now doing combination of b = 50  and n = 7
+1.0453 0.72851
+Now doing combination of b = 50  and n = 10
+0.53557 0.72741
+Now doing combination of b = 50  and n = 14
+0.61008 0.64572
+Now doing combination of b = 150  and n = 7
+1.0453 0.72851
+Now doing combination of b = 150  and n = 10
+0.53557 0.72741
+Now doing combination of b = 150  and n = 14
+0.61008 0.64572
+----------------------------------------
+Now doing asset UNG
+Evaluation starts 2023-06-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.01756 0.77653
+Now doing combination of b = 25  and n = 10
+0.62457 0.74884
+Now doing combination of b = 25  and n = 14
+1.01756 0.77653
+Now doing combination of b = 50  and n = 7
+1.01756 0.77653
+Now doing combination of b = 50  and n = 10
+0.62457 0.74884
+Now doing combination of b = 50  and n = 14
+1.5176 0.80769
+Now doing combination of b = 150  and n = 7
+1.01756 0.77653
+Now doing combination of b = 150  and n = 10
+0.62457 0.74884
+Now doing combination of b = 150  and n = 14
+0.62457 0.74884
+----------------------------------------
+Now doing asset UNG
+Evaluation starts 2023-07-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.91886 0.6822
+Now doing combination of b = 25  and n = 10
+0.55303 0.71344
+Now doing combination of b = 25  and n = 14
+0.89751 0.70408
+Now doing combination of b = 50  and n = 7
+0.91886 0.6822
+Now doing combination of b = 50  and n = 10
+0.55303 0.71344
+Now doing combination of b = 50  and n = 14
+0.55303 0.71344
+Now doing combination of b = 150  and n = 7
+0.91886 0.6822
+Now doing combination of b = 150  and n = 10
+0.55303 0.71344
+Now doing combination of b = 150  and n = 14
+0.55303 0.71344
+----------------------------------------
+Now doing asset UNG
+Evaluation starts 2023-08-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+0.94303 0.60602
+Now doing combination of b = 25  and n = 10
+0.66454 0.64229
+Now doing combination of b = 25  and n = 14
+0.67353 0.67364
+Now doing combination of b = 50  and n = 7
+0.94303 0.60602
+Now doing combination of b = 50  and n = 10
+0.66454 0.64229
+Now doing combination of b = 50  and n = 14
+0.8281 0.64572
+Now doing combination of b = 150  and n = 7
+0.94303 0.60602
+Now doing combination of b = 150  and n = 10
+0.66454 0.64229
+Now doing combination of b = 150  and n = 14
+1.11837 0.64229
+----------------------------------------
+Now doing asset UNG
+Evaluation starts 2023-09-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.07229 0.69496
+Now doing combination of b = 25  and n = 10
+1.15127 0.71982
+Now doing combination of b = 25  and n = 14
+1.07229 0.69496
+Now doing combination of b = 50  and n = 7
+1.07229 0.69496
+Now doing combination of b = 50  and n = 10
+1.29581 0.71982
+Now doing combination of b = 50  and n = 14
+1.33868 0.74537
+Now doing combination of b = 150  and n = 7
+1.07229 0.69496
+Now doing combination of b = 150  and n = 10
+1.29581 0.71982
+Now doing combination of b = 150  and n = 14
+1.29581 0.71982
+----------------------------------------
+Now doing asset UNG
+Evaluation starts 2023-10-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.33069 0.61294
+Now doing combination of b = 25  and n = 10
+1.33069 0.61294
+Now doing combination of b = 25  and n = 14
+1.46103 0.69198
+Now doing combination of b = 50  and n = 7
+1.33069 0.61294
+Now doing combination of b = 50  and n = 10
+0.98709 0.65182
+Now doing combination of b = 50  and n = 14
+1.33069 0.61294
+Now doing combination of b = 150  and n = 7
+1.33069 0.61294
+Now doing combination of b = 150  and n = 10
+1.33069 0.61294
+Now doing combination of b = 150  and n = 14
+1.17562 0.61139
+----------------------------------------
+Now doing asset UNG
+Evaluation starts 2023-11-01
+----------------------------------------
+Now doing combination of b = 25  and n = 7
+1.31697 0.66529
+Now doing combination of b = 25  and n = 10
+1.31697 0.66529
+Now doing combination of b = 25  and n = 14
+1.28391 0.76183
+Now doing combination of b = 50  and n = 7
+1.31697 0.66529
+Now doing combination of b = 50  and n = 10
+1.12702 0.70821
+Now doing combination of b = 50  and n = 14
+1.31697 0.66529
+Now doing combination of b = 150  and n = 7
+1.31697 0.66529
+Now doing combination of b = 150  and n = 10
+1.32317 0.73853
+Now doing combination of b = 150  and n = 14
+1.31697 0.66529
