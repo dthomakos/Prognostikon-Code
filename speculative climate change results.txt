@@ -1,0 +1,669 @@
+ROLLING
+
+******************************************************
+             
+Year is=1950-01-01
+             
+******************************************************
+******************************************************
+             
+Year is=1960-01-01
+             
+Evaluation starts in 1960-12
+----------------------------
+Strategy #2, Temp-Mean   with delay = 11 and ER = 1709.61
+             
+Evaluation starts in 1961-01
+----------------------------
+Strategy #2, Temp-Mean   with delay = 12 and ER = 2491.95
+             
+Evaluation starts in 1961-02
+----------------------------
+Strategy #2, Temp-Mean   with delay = 13 and ER = 1163.21
+             
+Evaluation starts in 1961-06
+----------------------------
+Strategy #2, Temp-Mean   with delay = 17 and ER = 341.10
+             
+Evaluation starts in 1961-07
+----------------------------
+Strategy #2, Temp-Mean   with delay = 18 and ER = 2366.79
+             
+Evaluation starts in 1961-08
+----------------------------
+Strategy #2, Temp-Mean   with delay = 19 and ER = 1287.37
+             
+Evaluation starts in 1961-09
+----------------------------
+Strategy #2, Temp-Mean   with delay = 20 and ER = 2102.87
+             
+Evaluation starts in 1961-10
+----------------------------
+Strategy #2, Temp-Mean   with delay = 21 and ER = 1597.08
+Evaluation starts in 1961-11
+----------------------------
+Strategy #1, Temp        with delay = 22 and ER = 276.15
+             
+Evaluation starts in 1961-11
+----------------------------
+Strategy #2, Temp-Mean   with delay = 22 and ER = 5097.24
+Evaluation starts in 1961-12
+----------------------------
+Strategy #1, Temp        with delay = 23 and ER = 479.59
+             
+Evaluation starts in 1961-12
+----------------------------
+Strategy #2, Temp-Mean   with delay = 23 and ER = 1350.53
+             
+Evaluation starts in 1962-01
+----------------------------
+Strategy #2, Temp-Mean   with delay = 24 and ER = 500.76
+             
+******************************************************
+******************************************************
+             
+Year is=1970-01-01
+             
+Evaluation starts in 1970-12
+----------------------------
+Strategy #2, Temp-Mean   with delay = 11 and ER = 661.63
+             
+Evaluation starts in 1971-01
+----------------------------
+Strategy #2, Temp-Mean   with delay = 12 and ER = 829.83
+Evaluation starts in 1971-07
+----------------------------
+Strategy #1, Temp        with delay = 18 and ER = 793.10
+Evaluation starts in 1971-08
+----------------------------
+Strategy #1, Temp        with delay = 19 and ER = 552.30
+             
+Evaluation starts in 1971-08
+----------------------------
+Strategy #2, Temp-Mean   with delay = 19 and ER = 153.28
+             
+Evaluation starts in 1971-09
+----------------------------
+Strategy #2, Temp-Mean   with delay = 20 and ER = 1658.05
+             
+Evaluation starts in 1971-10
+----------------------------
+Strategy #2, Temp-Mean   with delay = 21 and ER = 2546.96
+Evaluation starts in 1971-11
+----------------------------
+Strategy #1, Temp        with delay = 22 and ER = 214.67
+             
+Evaluation starts in 1971-11
+----------------------------
+Strategy #2, Temp-Mean   with delay = 22 and ER = 2564.94
+Evaluation starts in 1971-12
+----------------------------
+Strategy #1, Temp        with delay = 23 and ER = 555.63
+             
+Evaluation starts in 1971-12
+----------------------------
+Strategy #2, Temp-Mean   with delay = 23 and ER = 2523.34
+Evaluation starts in 1972-01
+----------------------------
+Strategy #1, Temp        with delay = 24 and ER = 265.38
+             
+Evaluation starts in 1972-01
+----------------------------
+Strategy #2, Temp-Mean   with delay = 24 and ER = 3504.18
+             
+******************************************************
+******************************************************
+             
+Year is=1975-01-01
+             
+Evaluation starts in 1975-06
+----------------------------
+Strategy #2, Temp-Mean   with delay = 5 and ER = 808.96
+Evaluation starts in 1975-07
+----------------------------
+Strategy #1, Temp        with delay = 6 and ER = 185.64
+             
+Evaluation starts in 1975-07
+----------------------------
+Strategy #2, Temp-Mean   with delay = 6 and ER = 1756.98
+             
+Evaluation starts in 1975-08
+----------------------------
+Strategy #2, Temp-Mean   with delay = 7 and ER = 1383.68
+Evaluation starts in 1975-09
+----------------------------
+Strategy #1, Temp        with delay = 8 and ER = 638.60
+             
+Evaluation starts in 1975-09
+----------------------------
+Strategy #2, Temp-Mean   with delay = 8 and ER = 1186.48
+Evaluation starts in 1975-10
+----------------------------
+Strategy #1, Temp        with delay = 9 and ER = 1443.01
+             
+Evaluation starts in 1975-11
+----------------------------
+Strategy #2, Temp-Mean   with delay = 10 and ER = 585.39
+Evaluation starts in 1975-12
+----------------------------
+Strategy #1, Temp        with delay = 11 and ER = 504.14
+             
+Evaluation starts in 1975-12
+----------------------------
+Strategy #2, Temp-Mean   with delay = 11 and ER = 807.79
+Evaluation starts in 1976-01
+----------------------------
+Strategy #1, Temp        with delay = 12 and ER = 483.82
+             
+Evaluation starts in 1976-01
+----------------------------
+Strategy #2, Temp-Mean   with delay = 12 and ER = 508.82
+Evaluation starts in 1976-02
+----------------------------
+Strategy #1, Temp        with delay = 13 and ER = 1029.64
+             
+Evaluation starts in 1976-02
+----------------------------
+Strategy #2, Temp-Mean   with delay = 13 and ER = 904.36
+Evaluation starts in 1976-03
+----------------------------
+Strategy #1, Temp        with delay = 14 and ER = 2383.82
+Evaluation starts in 1976-04
+----------------------------
+Strategy #1, Temp        with delay = 15 and ER = 1074.09
+             
+Evaluation starts in 1976-04
+----------------------------
+Strategy #2, Temp-Mean   with delay = 15 and ER = 266.86
+Evaluation starts in 1976-07
+----------------------------
+Strategy #1, Temp        with delay = 18 and ER = 164.67
+Evaluation starts in 1976-08
+----------------------------
+Strategy #1, Temp        with delay = 19 and ER = 2065.66
+             
+Evaluation starts in 1976-09
+----------------------------
+Strategy #2, Temp-Mean   with delay = 20 and ER = 204.11
+Evaluation starts in 1976-12
+----------------------------
+Strategy #1, Temp        with delay = 23 and ER = 371.59
+Evaluation starts in 1977-01
+----------------------------
+Strategy #1, Temp        with delay = 24 and ER = 252.77
+             
+******************************************************
+******************************************************
+             
+Year is=1980-01-01
+             
+******************************************************
+******************************************************
+             
+Year is=1985-01-01
+             
+******************************************************
+******************************************************
+             
+Year is=1990-01-01
+             
+******************************************************
+******************************************************
+             
+Year is=1995-01-01
+             
+******************************************************
+******************************************************
+             
+Year is=2000-01-01
+             
+Evaluation starts in 2000-10
+----------------------------
+Strategy #3, Δ-Temp      with delay = 9 and ER = 196.66
+             
+Evaluation starts in 2000-10
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 9 and ER = 108.97
+             
+Evaluation starts in 2001-02
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 13 and ER =  56.27
+             
+******************************************************
+******************************************************
+             
+Year is=2005-01-01
+             
+Evaluation starts in 2005-10
+----------------------------
+Strategy #3, Δ-Temp      with delay = 9 and ER =  67.46
+             
+Evaluation starts in 2005-10
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 9 and ER =   5.42
+             
+Evaluation starts in 2006-02
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 13 and ER = 129.20
+             
+******************************************************
+******************************************************
+             
+Year is=2010-01-01
+             
+Evaluation starts in 2010-10
+----------------------------
+Strategy #3, Δ-Temp      with delay = 9 and ER =  38.17
+             
+******************************************************
+******************************************************
+             
+Year is=2015-01-01
+             
+Evaluation starts in 2015-10
+----------------------------
+Strategy #3, Δ-Temp      with delay = 9 and ER =  26.95
+             
+Evaluation starts in 2016-02
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 13 and ER =   0.64
+             
+Evaluation starts in 2016-04
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 15 and ER =  97.00
+             
+Evaluation starts in 2016-07
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 18 and ER = 126.44
+             
+******************************************************
+******************************************************
+             
+Year is=2020-01-01
+             
+Evaluation starts in 2020-06
+----------------------------
+Strategy #3, Δ-Temp      with delay = 5 and ER =  14.40
+             
+Evaluation starts in 2020-10
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 9 and ER =  20.00
+             
+Evaluation starts in 2020-11
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 10 and ER =  11.53
+             
+Evaluation starts in 2021-02
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 13 and ER =  36.39
+             
+Evaluation starts in 2021-04
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 15 and ER =  20.77
+             
+Evaluation starts in 2021-05
+----------------------------
+Strategy #3, Δ-Temp      with delay = 16 and ER =  14.29
+             
+Evaluation starts in 2021-07
+----------------------------
+Strategy #3, Δ-Temp      with delay = 18 and ER =  16.91
+             
+Evaluation starts in 2021-07
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 18 and ER =  54.79
+             
+Evaluation starts in 2021-09
+----------------------------
+Strategy #3, Δ-Temp      with delay = 20 and ER =  38.71
+             
+Evaluation starts in 2021-09
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 20 and ER =  20.08
+             
+Evaluation starts in 2021-11
+----------------------------
+Strategy #3, Δ-Temp      with delay = 22 and ER =  60.40
+             
+******************************************************
+
+>>> 
+
+EXPANDING
+
+******************************************************
+             
+Year is=1950-01-01
+             
+Evaluation starts in 1951-05
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 16 and ER = 14498.11
+             
+Evaluation starts in 1951-06
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 17 and ER = 12896.02
+             
+Evaluation starts in 1951-10
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 21 and ER = 9828.71
+             
+******************************************************
+******************************************************
+             
+Year is=1960-01-01
+             
+Evaluation starts in 1960-08
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 7 and ER = 3431.21
+             
+Evaluation starts in 1961-04
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 15 and ER = 1343.15
+             
+Evaluation starts in 1961-05
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 16 and ER = 5200.09
+             
+Evaluation starts in 1961-06
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 17 and ER = 8730.97
+             
+Evaluation starts in 1961-07
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 18 and ER = 1966.96
+             
+Evaluation starts in 1961-10
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 21 and ER = 5054.71
+Evaluation starts in 1961-11
+----------------------------
+Strategy #1, Temp        with delay = 22 and ER = 276.15
+             
+Evaluation starts in 1961-11
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 22 and ER = 1657.29
+Evaluation starts in 1961-12
+----------------------------
+Strategy #1, Temp        with delay = 23 and ER = 479.59
+             
+Evaluation starts in 1962-01
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 24 and ER = 924.11
+             
+******************************************************
+******************************************************
+             
+Year is=1970-01-01
+             
+Evaluation starts in 1970-05
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 4 and ER =   8.74
+             
+Evaluation starts in 1970-08
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 7 and ER = 2164.14
+             
+Evaluation starts in 1971-04
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 15 and ER = 1906.50
+             
+Evaluation starts in 1971-06
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 17 and ER = 1425.29
+Evaluation starts in 1971-07
+----------------------------
+Strategy #1, Temp        with delay = 18 and ER = 793.10
+Evaluation starts in 1971-08
+----------------------------
+Strategy #1, Temp        with delay = 19 and ER = 552.30
+             
+Evaluation starts in 1971-08
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 19 and ER = 630.79
+             
+Evaluation starts in 1971-10
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 21 and ER = 959.00
+Evaluation starts in 1971-11
+----------------------------
+Strategy #1, Temp        with delay = 22 and ER = 214.67
+             
+Evaluation starts in 1971-11
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 22 and ER = 1606.97
+Evaluation starts in 1971-12
+----------------------------
+Strategy #1, Temp        with delay = 23 and ER = 555.63
+Evaluation starts in 1972-01
+----------------------------
+Strategy #1, Temp        with delay = 24 and ER = 265.38
+             
+Evaluation starts in 1972-01
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 24 and ER = 2657.44
+             
+******************************************************
+******************************************************
+             
+Year is=1975-01-01
+             
+Evaluation starts in 1975-05
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 4 and ER = 113.52
+Evaluation starts in 1975-07
+----------------------------
+Strategy #1, Temp        with delay = 6 and ER = 185.64
+Evaluation starts in 1975-09
+----------------------------
+Strategy #1, Temp        with delay = 8 and ER = 638.60
+Evaluation starts in 1975-10
+----------------------------
+Strategy #1, Temp        with delay = 9 and ER = 1443.01
+             
+Evaluation starts in 1975-11
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 10 and ER = 556.45
+Evaluation starts in 1975-12
+----------------------------
+Strategy #1, Temp        with delay = 11 and ER = 504.14
+             
+Evaluation starts in 1975-12
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 11 and ER = 428.21
+Evaluation starts in 1976-01
+----------------------------
+Strategy #1, Temp        with delay = 12 and ER = 483.82
+             
+Evaluation starts in 1976-01
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 12 and ER = 717.65
+Evaluation starts in 1976-02
+----------------------------
+Strategy #1, Temp        with delay = 13 and ER = 1029.64
+Evaluation starts in 1976-03
+----------------------------
+Strategy #1, Temp        with delay = 14 and ER = 2383.82
+             
+Evaluation starts in 1976-03
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 14 and ER = 817.44
+Evaluation starts in 1976-04
+----------------------------
+Strategy #1, Temp        with delay = 15 and ER = 1074.09
+             
+Evaluation starts in 1976-04
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 15 and ER = 1393.61
+             
+Evaluation starts in 1976-05
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 16 and ER = 254.55
+             
+Evaluation starts in 1976-06
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 17 and ER = 1383.10
+Evaluation starts in 1976-07
+----------------------------
+Strategy #1, Temp        with delay = 18 and ER = 164.67
+Evaluation starts in 1976-08
+----------------------------
+Strategy #1, Temp        with delay = 19 and ER = 2065.66
+             
+Evaluation starts in 1976-08
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 19 and ER = 426.86
+             
+Evaluation starts in 1976-09
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 20 and ER = 430.27
+             
+Evaluation starts in 1976-10
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 21 and ER = 292.59
+             
+Evaluation starts in 1976-11
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 22 and ER = 309.27
+Evaluation starts in 1976-12
+----------------------------
+Strategy #1, Temp        with delay = 23 and ER = 371.59
+Evaluation starts in 1977-01
+----------------------------
+Strategy #1, Temp        with delay = 24 and ER = 252.77
+             
+Evaluation starts in 1977-01
+----------------------------
+Strategy #4, Δ-Temp-Mean with delay = 24 and ER = 948.19
+             
+******************************************************
+******************************************************
+             
+Year is=1980-01-01
+             
+Evaluation starts in 1980-02
+----------------------------
+Strategy #2, Temp-Mean   with delay = 1 and ER = 992.13
+             
+Evaluation starts in 1980-03
+----------------------------
+Strategy #2, Temp-Mean   with delay = 2 and ER = 544.38
+             
+Evaluation starts in 1980-12
+----------------------------
+Strategy #2, Temp-Mean   with delay = 11 and ER = 586.27
+             
+Evaluation starts in 1981-01
+----------------------------
+Strategy #2, Temp-Mean   with delay = 12 and ER = 235.94
+             
+Evaluation starts in 1981-04
+----------------------------
+Strategy #2, Temp-Mean   with delay = 15 and ER = 180.68
+             
+Evaluation starts in 1981-05
+----------------------------
+Strategy #2, Temp-Mean   with delay = 16 and ER =  87.72
+             
+Evaluation starts in 1981-06
+----------------------------
+Strategy #2, Temp-Mean   with delay = 17 and ER =  91.94
+             
+Evaluation starts in 1981-07
+----------------------------
+Strategy #2, Temp-Mean   with delay = 18 and ER = 499.62
+             
+Evaluation starts in 1981-08
+----------------------------
+Strategy #2, Temp-Mean   with delay = 19 and ER = 951.92
+             
+Evaluation starts in 1981-09
+----------------------------
+Strategy #2, Temp-Mean   with delay = 20 and ER =  36.66
+             
+Evaluation starts in 1981-12
+----------------------------
+Strategy #2, Temp-Mean   with delay = 23 and ER = 377.30
+             
+Evaluation starts in 1982-01
+----------------------------
+Strategy #2, Temp-Mean   with delay = 24 and ER = 658.63
+             
+******************************************************
+******************************************************
+             
+Year is=1985-01-01
+             
+******************************************************
+******************************************************
+             
+Year is=1990-01-01
+             
+******************************************************
+******************************************************
+             
+Year is=1995-01-01
+             
+******************************************************
+******************************************************
+             
+Year is=2000-01-01
+             
+Evaluation starts in 2000-10
+----------------------------
+Strategy #3, Δ-Temp      with delay = 9 and ER = 196.66
+             
+******************************************************
+******************************************************
+             
+Year is=2005-01-01
+             
+Evaluation starts in 2005-10
+----------------------------
+Strategy #3, Δ-Temp      with delay = 9 and ER =  67.46
+             
+******************************************************
+******************************************************
+             
+Year is=2010-01-01
+             
+Evaluation starts in 2010-10
+----------------------------
+Strategy #3, Δ-Temp      with delay = 9 and ER =  38.17
+             
+******************************************************
+******************************************************
+             
+Year is=2015-01-01
+             
+Evaluation starts in 2015-10
+----------------------------
+Strategy #3, Δ-Temp      with delay = 9 and ER =  26.95
+             
+******************************************************
+******************************************************
+             
+Year is=2020-01-01
+             
+Evaluation starts in 2020-06
+----------------------------
+Strategy #3, Δ-Temp      with delay = 5 and ER =  14.40
+             
+Evaluation starts in 2021-05
+----------------------------
+Strategy #3, Δ-Temp      with delay = 16 and ER =  14.29
+             
+Evaluation starts in 2021-07
+----------------------------
+Strategy #3, Δ-Temp      with delay = 18 and ER =  16.91
+             
+Evaluation starts in 2021-09
+----------------------------
+Strategy #3, Δ-Temp      with delay = 20 and ER =  38.71
+             
+Evaluation starts in 2021-11
+----------------------------
+Strategy #3, Δ-Temp      with delay = 22 and ER =  60.40
+             
+******************************************************
+
+>>> 
