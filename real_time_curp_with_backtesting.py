@@ -1,3 +1,10 @@
+# Code from the below post at the blog Prognostikon
+#
+# https://prognostikon.cce.uoa.gr/thomakos/gdp-forecasting-on-your-own/
+#
+# (c) Dimitrios D. Thomakos, dimitrios.thomakos@gmail.com
+#
+
 import pandas as pd
 import numpy as np
 import pandas_datareader.data as web
