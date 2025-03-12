@@ -1,7 +1,7 @@
 #
 # Python code adding for the post:
 #
-# https://prognostikon.cce.uoa.gr/thomakos/the-fractional-trader-supercharged/
+# https://prognostikon.cce.uoa.gr/thomakos/gdp-nowcasting-also-on-your-own/
 #
 # at my blog Prognostikon
 #
